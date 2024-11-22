@@ -13,3 +13,10 @@ print (int(len(H)))
 
 #使用索引获取特定字符
 print (H[0])
+
+#布尔类型
+b1 = True
+b2 = False
+
+#空值类型
+N = None
